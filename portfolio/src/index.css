@@ -1,0 +1,88 @@
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 100px;
+  width: 100px;
+  background-size: 100%, 100%;
+  background-image: none;
+}
+
+.carousel-control-next-icon:after
+{
+  content: '/>';
+  font-size: 55px;
+  color: #6A0136;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 55px;
+  color: #6A0136;
+}
+.carousel-indicators li {
+  background-color: #6A0136; 
+}
+
+.slant {
+  position: relative;
+  display: inline-block;
+  padding: 1em 5em 1em 1em;
+  overflow: hidden;
+  color: #fff;
+}
+
+.slant:after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #055864;
+  -webkit-transform-origin: 100% 0;
+  -ms-transform-origin: 100% 0;
+  transform-origin: 100% 0;
+  -webkit-transform: skew(-45deg);
+  -ms-transform: skew(-45deg);
+  transform: skew(-45deg);
+  z-index: -1;
+}
+
+body {
+  background: url('https://farm3.staticflickr.com/2878/10944255073_973d2cd25c.jpg');
+  background-size: cover;
+}
+
+.reverseslant {
+  position: relative;
+  display: inline-block;
+  padding: 1em 5em 1em 1em;
+  overflow: hidden;
+  color: #fff;
+}
+
+.reverseslant:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background: #055864;
+    -webkit-transform-origin: 100% 0;
+    -ms-transform-origin: 100% 0;
+    transform-origin: 0 100%;
+    -webkit-transform: skew(-45deg);
+    -ms-transform: skew(-45deg);
+    transform: skew(45deg);
+    z-index: -1;
+}
+
+.square {
+  color: #BFAB25;
+  margin: 10% 20%;
+  width: 30rem;
+  height: 30rem;
+  background: #DB504A;
+  padding: 40px 0px 0px 40px;
+}
+
