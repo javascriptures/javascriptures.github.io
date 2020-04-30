@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.5f361e03.chunk.css",
-    "main.js": "/portfolio/static/js/main.9ee62c46.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.9ee62c46.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.075c0788.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.075c0788.js.map",
-    "static/js/2.9e384841.chunk.js": "/portfolio/static/js/2.9e384841.chunk.js",
-    "static/js/2.9e384841.chunk.js.map": "/portfolio/static/js/2.9e384841.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "precache-manifest.4f006207aaeb058dd27a17f6536dc95d.js": "/portfolio/precache-manifest.4f006207aaeb058dd27a17f6536dc95d.js",
-    "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/portfolio/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.9e384841.chunk.js.LICENSE.txt": "/portfolio/static/js/2.9e384841.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/portfolio/static/media/logo.5d5d9eef.svg"
+    "main.css": "/www.jordan-taylor.com/static/css/main.5f361e03.chunk.css",
+    "main.js": "/www.jordan-taylor.com/static/js/main.4c462dd2.chunk.js",
+    "main.js.map": "/www.jordan-taylor.com/static/js/main.4c462dd2.chunk.js.map",
+    "runtime-main.js": "/www.jordan-taylor.com/static/js/runtime-main.3cc6f4a7.js",
+    "runtime-main.js.map": "/www.jordan-taylor.com/static/js/runtime-main.3cc6f4a7.js.map",
+    "static/js/2.9e384841.chunk.js": "/www.jordan-taylor.com/static/js/2.9e384841.chunk.js",
+    "static/js/2.9e384841.chunk.js.map": "/www.jordan-taylor.com/static/js/2.9e384841.chunk.js.map",
+    "index.html": "/www.jordan-taylor.com/index.html",
+    "precache-manifest.af1bee05003aa1f7c5af76d229c54836.js": "/www.jordan-taylor.com/precache-manifest.af1bee05003aa1f7c5af76d229c54836.js",
+    "service-worker.js": "/www.jordan-taylor.com/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/www.jordan-taylor.com/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9e384841.chunk.js.LICENSE.txt": "/www.jordan-taylor.com/static/js/2.9e384841.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/www.jordan-taylor.com/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.075c0788.js",
+    "static/js/runtime-main.3cc6f4a7.js",
     "static/js/2.9e384841.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.9ee62c46.chunk.js"
+    "static/js/main.4c462dd2.chunk.js"
   ]
 }
