@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap');
+
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
   height: 100px;
@@ -48,11 +50,11 @@
 }
 
 body {
-  background: url('https://farm3.staticflickr.com/2878/10944255073_973d2cd25c.jpg');
+  background: url('./Images/jordan.jpeg');
   background-size: cover;
 }
 
-.reverseslant {
+/* .reverseslant {
   position: relative;
   display: inline-block;
   padding: 1em 5em 1em 1em;
@@ -75,14 +77,20 @@ body {
     -ms-transform: skew(-45deg);
     transform: skew(45deg);
     z-index: -1;
-}
+} */
 
 .square {
   color: #BFAB25;
-  margin: 10% 20%;
+  margin: 10% 20% 50% 20%;
   width: 30rem;
   height: 30rem;
   background: #DB504A;
   padding: 40px 0px 0px 40px;
 }
 
+.menuitems {
+  font-family: 'Roboto Mono', monospace;
+}
+.menubar {
+  padding: 0% 20%;
+}

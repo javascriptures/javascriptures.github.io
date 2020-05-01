@@ -15,11 +15,17 @@ function Header() {
                 <Col>
                 </Col>
             </Row>
-            {/* <Row>
-                <Col>1 of 1</Col>
-                <Col>1 of 1</Col>
-                <Col>1 of 1</Col>
-            </Row> */}
+            <Row className="menubar">
+                <Col><p className="menuitems">projects</p></Col>
+                <Col><p className="menuitems">|</p></Col>
+                <Col><p className="menuitems">resume</p></Col>
+                <Col><p className="menuitems">|</p></Col>
+                <Col><p className="menuitems">github</p></Col>
+                <Col><p className="menuitems">|</p></Col>
+                <Col><p className="menuitems">linkedin</p></Col>
+                <Col><p className="menuitems">|</p></Col>
+                <Col><p className="menuitems">blog</p></Col>
+            </Row>
         </Container>
         {/* <div>slanted div text</div>
         <div>

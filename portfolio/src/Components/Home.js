@@ -11,6 +11,7 @@ function Home() {
     return (
         <>
         <Container fluid="sm">
+            <Col xs={9}>
         <Carousel activeIndex={index} onSelect={handleSelect}>
             <Carousel.Item>
                 <a href={'https://javascriptures.github.io/Simon-Memory/'}>
@@ -60,6 +61,7 @@ function Home() {
                 </Carousel.Caption>
             </Carousel.Item>
     </Carousel>
+    </Col>
     </Container>
 </>
     )
