@@ -1,23 +1,30 @@
 {
   "files": {
-    "main.css": "/www.jordan-taylor.com/static/css/main.5f361e03.chunk.css",
-    "main.js": "/www.jordan-taylor.com/static/js/main.4c462dd2.chunk.js",
-    "main.js.map": "/www.jordan-taylor.com/static/js/main.4c462dd2.chunk.js.map",
-    "runtime-main.js": "/www.jordan-taylor.com/static/js/runtime-main.3cc6f4a7.js",
-    "runtime-main.js.map": "/www.jordan-taylor.com/static/js/runtime-main.3cc6f4a7.js.map",
-    "static/js/2.9e384841.chunk.js": "/www.jordan-taylor.com/static/js/2.9e384841.chunk.js",
-    "static/js/2.9e384841.chunk.js.map": "/www.jordan-taylor.com/static/js/2.9e384841.chunk.js.map",
-    "index.html": "/www.jordan-taylor.com/index.html",
-    "precache-manifest.af1bee05003aa1f7c5af76d229c54836.js": "/www.jordan-taylor.com/precache-manifest.af1bee05003aa1f7c5af76d229c54836.js",
-    "service-worker.js": "/www.jordan-taylor.com/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/www.jordan-taylor.com/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.9e384841.chunk.js.LICENSE.txt": "/www.jordan-taylor.com/static/js/2.9e384841.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/www.jordan-taylor.com/static/media/logo.5d5d9eef.svg"
+    "main.css": "/static/css/main.72efb5ad.chunk.css",
+    "main.js": "/static/js/main.643d96d7.chunk.js",
+    "main.js.map": "/static/js/main.643d96d7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ceaf4b5f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ceaf4b5f.js.map",
+    "static/css/2.de424728.chunk.css": "/static/css/2.de424728.chunk.css",
+    "static/js/2.ef486a5d.chunk.js": "/static/js/2.ef486a5d.chunk.js",
+    "static/js/2.ef486a5d.chunk.js.map": "/static/js/2.ef486a5d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2c268b9b7d091aead68d021764600620.js": "/precache-manifest.2c268b9b7d091aead68d021764600620.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/static/css/2.de424728.chunk.css.map",
+    "static/css/main.72efb5ad.chunk.css.map": "/static/css/main.72efb5ad.chunk.css.map",
+    "static/js/2.ef486a5d.chunk.js.LICENSE.txt": "/static/js/2.ef486a5d.chunk.js.LICENSE.txt",
+    "static/media/Catspotting.png": "/static/media/Catspotting.aab56e9e.png",
+    "static/media/Jobble.png": "/static/media/Jobble.90f75143.png",
+    "static/media/SimonGame.png": "/static/media/SimonGame.d94577bf.png",
+    "static/media/index.css": "/static/media/jordan.6cbf242c.jpeg",
+    "static/media/jordantaylorlogo.png": "/static/media/jordantaylorlogo.7981e7c8.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3cc6f4a7.js",
-    "static/js/2.9e384841.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.4c462dd2.chunk.js"
+    "static/js/runtime-main.ceaf4b5f.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.ef486a5d.chunk.js",
+    "static/css/main.72efb5ad.chunk.css",
+    "static/js/main.643d96d7.chunk.js"
   ]
 }
