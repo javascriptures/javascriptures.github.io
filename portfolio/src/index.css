@@ -94,3 +94,14 @@ body {
 .menubar {
   padding: 0% 20%;
 }
+a {
+  color: #fff;
+  text-decoration: none;
+}
+a:hover, a:active {
+  text-decoration: none;
+  color:#BFAB25
+}
+a:visited {
+  text-decoration: none;
+}

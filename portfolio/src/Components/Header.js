@@ -20,9 +20,9 @@ function Header() {
                 <Col><p className="menuitems">|</p></Col>
                 <Col><p className="menuitems">resume</p></Col>
                 <Col><p className="menuitems">|</p></Col>
-                <Col><p className="menuitems">github</p></Col>
+                <a href="https://github.com/javascriptures"><Col><p className="menuitems">github</p></Col></a>
                 <Col><p className="menuitems">|</p></Col>
-                <Col><p className="menuitems">linkedin</p></Col>
+                <a a href="https://www.linkedin.com/in/jordan-tay/"><Col><p className="menuitems">linkedin</p></Col></a>
                 <Col><p className="menuitems">|</p></Col>
                 <Col><p className="menuitems">blog</p></Col>
             </Row>
