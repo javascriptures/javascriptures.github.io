@@ -1,17 +1,19 @@
 import React from 'react';
+import {Route, Switch } from 'react-router-dom';
 import Home from './Components/Home';
-import Header from './Components/Header';
-import About from './Components/About';
+import Projects from './Components/Projects';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './index.css'
 
 function App() {
   return (
     <>
-    <div className="slant">
-      <Header/>
-      <About/>
-      </div>
+      <main>
+        <Switch>
+          <Route exact path="/portfolio" component={Home}/>
+          <Route exact path="/portfolio/projects" component={Projects}/>
+        </Switch>
+      </main>
     </>
   );
 }

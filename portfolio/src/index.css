@@ -53,7 +53,6 @@ body {
   background: url('./Images/jordan.jpeg');
   background-size: cover;
 }
-
 /* .reverseslant {
   position: relative;
   display: inline-block;
@@ -116,4 +115,7 @@ a:visited {
 .signed {
   font-family: 'Reenie Beanie', cursive;
   font-size: 3rem;
+}
+.slideshow {
+  margin: 10%;
 }

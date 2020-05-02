@@ -11,13 +11,15 @@ function Header() {
             <Row>
                 <Col> </Col>
                 <Col xs={10}>
-                <img src={require('../Images/jordantaylorlogo.png')} style={{width:'100%'}}/>
+                <Link to={'/portfolio'}>
+                    <img src={require('../Images/jordantaylorlogo.png')} style={{width:'100%'}}/>
+                </Link>
                 </Col>
                 <Col>
                 </Col>
             </Row>
             <Row className="menubar">
-                <Col><p className="menuitems">projects</p></Col>
+                <Link to={'/portfolio/projects'}><Col><p className="menuitems">projects</p></Col></Link>
                 <Col><p className="menuitems">|</p></Col>
                 <a href = {pdf} target = "_blank"><Col><p className="menuitems">résumé</p></Col></a>
                 <Col><p className="menuitems">|</p></Col>
@@ -28,11 +30,6 @@ function Header() {
                 <a href="https://medium.com/@jordan_taylor"><Col><p className="menuitems">blog</p></Col></a>
             </Row>
         </Container>
-        {/* <div>slanted div text</div>
-        <div>
-          slanted div text<br/> on several lines<br/> an other line
-        </div>
-        <div>wider slanted div text with more text inside</div> */}
         </>
     )
 }
