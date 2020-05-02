@@ -1,12 +1,17 @@
 import React from 'react';
 import { Row, Col, Container } from 'react-bootstrap';
+import TextLoop from "react-text-loop";
 
 function About() {
     return(
        <Container fluid>
            <div className="square" id="diamond">
-                <h4>Hi I'm Jordan and I'm a Full-Stack Developer based in sunny Los Angeles! This page is still under construction but feel free to click through my project gallery below!
-                </h4>
+                <p className="about">Hi I'm Jordan and I'm a </p> 
+                <p className="about">
+                <TextLoop springConfig={{ stiffness: 180, damping: 8 }} children={["Frontend Developer", "Full-stack Developer", "Blogger", "Textile Artist", "Animal Enthusiast"]}>
+                </TextLoop>
+                .
+                </p>
            </div>
        </Container> 
     )
