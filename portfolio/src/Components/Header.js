@@ -11,7 +11,7 @@ function Header() {
             <Row>
                 <Col> </Col>
                 <Col xs={10}>
-                <Link to={'/'}>
+                <Link to={'/me'}>
                     <img src={require('../Images/jordantaylorlogo.png')} style={{width:'100%'}}/>
                 </Link>
                 </Col>
@@ -19,7 +19,7 @@ function Header() {
                 </Col>
             </Row>
             <Row className="menubar">
-                <Link to={'/projects'}><Col><p className="menuitems">projects</p></Col></Link>
+                <Link to={'/me/projects'}><Col><p className="menuitems">projects</p></Col></Link>
                 <Col><p className="menuitems">|</p></Col>
                 <a href = {pdf} target = "_blank"><Col><p className="menuitems">résumé</p></Col></a>
                 <Col><p className="menuitems">|</p></Col>
