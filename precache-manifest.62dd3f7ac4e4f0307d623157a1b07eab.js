@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f29194bd5d9dc1b758afb962628c69a0",
+    "revision": "256840a59746e9f1782190681619a777",
     "url": "/index.html"
   },
   {
-    "revision": "5bfc721cb2432f75d018",
+    "revision": "bd5911b7e1127f588c1d",
     "url": "/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "40ac2d8e9e80f100247d",
-    "url": "/static/css/main.9bf5000f.chunk.css"
+    "revision": "074da602bf06e5328770",
+    "url": "/static/css/main.88a16981.chunk.css"
   },
   {
-    "revision": "5bfc721cb2432f75d018",
-    "url": "/static/js/2.03040a6a.chunk.js"
+    "revision": "bd5911b7e1127f588c1d",
+    "url": "/static/js/2.89bd6a2b.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/static/js/2.03040a6a.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.89bd6a2b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "40ac2d8e9e80f100247d",
-    "url": "/static/js/main.55c45adc.chunk.js"
+    "revision": "074da602bf06e5328770",
+    "url": "/static/js/main.b4a5767a.chunk.js"
   },
   {
     "revision": "5284eec07972ace79c95",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/SimonGame.d94577bf.png"
   },
   {
-    "revision": "6cbf242ce876c9764f7c553050197d34",
-    "url": "/static/media/jordan.6cbf242c.jpeg"
+    "revision": "e49e4b0525052b7c77d71d77c084d329",
+    "url": "/static/media/jordan.e49e4b05.jpeg"
   },
   {
     "revision": "7981e7c8ccd6d28e7c650bfb2bb8adc9",

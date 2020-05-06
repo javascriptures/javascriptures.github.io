@@ -1,32 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.9bf5000f.chunk.css",
-    "main.js": "/static/js/main.55c45adc.chunk.js",
-    "main.js.map": "/static/js/main.55c45adc.chunk.js.map",
+    "main.css": "/static/css/main.88a16981.chunk.css",
+    "main.js": "/static/js/main.b4a5767a.chunk.js",
+    "main.js.map": "/static/js/main.b4a5767a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ceaf4b5f.js",
     "runtime-main.js.map": "/static/js/runtime-main.ceaf4b5f.js.map",
     "static/css/2.de424728.chunk.css": "/static/css/2.de424728.chunk.css",
-    "static/js/2.03040a6a.chunk.js": "/static/js/2.03040a6a.chunk.js",
-    "static/js/2.03040a6a.chunk.js.map": "/static/js/2.03040a6a.chunk.js.map",
+    "static/js/2.89bd6a2b.chunk.js": "/static/js/2.89bd6a2b.chunk.js",
+    "static/js/2.89bd6a2b.chunk.js.map": "/static/js/2.89bd6a2b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c21496d43c3558d1591900d28940dc4b.js": "/precache-manifest.c21496d43c3558d1591900d28940dc4b.js",
+    "precache-manifest.62dd3f7ac4e4f0307d623157a1b07eab.js": "/precache-manifest.62dd3f7ac4e4f0307d623157a1b07eab.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/static/css/2.de424728.chunk.css.map",
-    "static/css/main.9bf5000f.chunk.css.map": "/static/css/main.9bf5000f.chunk.css.map",
-    "static/js/2.03040a6a.chunk.js.LICENSE.txt": "/static/js/2.03040a6a.chunk.js.LICENSE.txt",
+    "static/css/main.88a16981.chunk.css.map": "/static/css/main.88a16981.chunk.css.map",
+    "static/js/2.89bd6a2b.chunk.js.LICENSE.txt": "/static/js/2.89bd6a2b.chunk.js.LICENSE.txt",
     "static/media/Catspotting.png": "/static/media/Catspotting.aab56e9e.png",
     "static/media/Jobble.png": "/static/media/Jobble.90f75143.png",
     "static/media/JordanTaylorResume.PDF": "/static/media/JordanTaylorResume.35c7ddb7.PDF",
     "static/media/SimonGame.png": "/static/media/SimonGame.d94577bf.png",
-    "static/media/index.css": "/static/media/jordan.6cbf242c.jpeg",
+    "static/media/index.css": "/static/media/jordan.e49e4b05.jpeg",
     "static/media/jordantaylorlogo.png": "/static/media/jordantaylorlogo.7981e7c8.png",
     "static/media/projects.jpeg": "/static/media/projects.42bba9cf.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.ceaf4b5f.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.03040a6a.chunk.js",
-    "static/css/main.9bf5000f.chunk.css",
-    "static/js/main.55c45adc.chunk.js"
+    "static/js/2.89bd6a2b.chunk.js",
+    "static/css/main.88a16981.chunk.css",
+    "static/js/main.b4a5767a.chunk.js"
   ]
 }
