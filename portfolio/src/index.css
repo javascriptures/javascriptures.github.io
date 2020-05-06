@@ -119,3 +119,10 @@ a:visited {
 .slideshow {
   margin: 10%;
 }
+.footertext {
+  color: #BFAB25;
+  padding: 0% 4%;
+}
+.footer {
+  min-width: 100%;
+}
